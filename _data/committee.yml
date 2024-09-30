@@ -2,7 +2,23 @@ people:
 - name: "Драгана Стикова"
   image: NZDDraganaStikova.png
 - name: "Никола Стиков"
-  image: NZDNikolaStikov.jpg
+  image: NZDNikolaStikov.png
+- name: "Ага Каракузу"
+  image: NZDAgahKarakuzu.png
+- name: "Анита Пренџова"
+  image: NZDAnitaPrendzova.png
+- name: "Драгана Карашова"
+  image: NZDDraganaKarasova.png
+- name: "Марина Матеска"
+  image: NZDMarinaMateska.png
+- name: "Мирјана Пауновска"
+  image: NZDMirjanaPaunovska.png
+- name: "Надица Мушијан"
+  image: NZDNadicaMushijan.png
+- name: "Неда Ѓоковиќ"
+  image: NZDNedaGjokovikj.png
+- name: "Томи Бошковски"
+  image: NZDTomiBoshkovski.png
 
 
 speakers:

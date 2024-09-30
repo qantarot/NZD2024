@@ -14,9 +14,9 @@ titleclr: wednesday
 <div class="col-md-4">
 <center>
 <div class="team-player">
-    <img src="img/organization/{{ person.image }}" alt="Thumbnail Image" class="img-raised img-circle" style="max-width:194px; height:auto; border-radius: 50%;">
 
-<!--<img src="img/organization/{{ person.image }}" alt="Thumbnail Image" class="img-raised img-circle" style="width:194px;height:194px;border-radius: 50%;"> -->
+
+<img src="img/organization/{{ person.image }}" alt="Thumbnail Image" class="img-raised img-circle" style="width:194px;height:194px;border-radius: 50%;">
     <h4 class="title" style="color: #ffffff;">{{ person.name }}<br>
         <small class="text-muted" style="color: #337ab7;">{{ person.title }}</small>
     </h4>

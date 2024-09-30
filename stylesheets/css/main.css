@@ -401,3 +401,14 @@ nav ul li:hover, nav ul li.active {
   display: none;
   overflow: hidden;
 }
+
+a {
+    pointer-events: auto;
+    touch-action: manipulation;
+}
+
+button, a {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}

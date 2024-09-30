@@ -1,5 +1,5 @@
 ---
-title: "Organizers"
+title: "ТИМ"
 bg: wednesday
 color: white
 fa-icon: user

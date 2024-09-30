@@ -7,7 +7,7 @@ saturday1:
       🎊 <b class="title-random" style="color: #000;">ПОЗДРАВНИ ГОВОРИ 19:00-19:15 </b> <br> <i class="speaker-random">
       <br> <b>Драгана Стикова</b> <br> Директорка на Фондација КАНТАРОТ
       <br> <b>Иван Новаковски</b> <br> Директор на NOVA International School Skopje
-      <br> <b>Хуго Бехтел</b> <br> Директор на Institut français de Skopje</i>
+      <br> <b>Иго Бештел</b> <br> Директор на Француски институт Скопје </i>
       <br><br>
 
   - title: "ПЛЕНАРНИ ПРЕДАВАЊА"
@@ -57,34 +57,31 @@ saturday1:
     image: kids-cocktail.png
     text: ""
 saturday2:
-  - title: "🎨 РАБОТИЛНИЦИ"
-    time:  "10:30-12:00"
+  - title: "🎨 УТРИНСКА СЕСИЈА ЗА ДЕЦА ОД 10 ДО 12 ГОДИНИ"
+    time:  "10:30-13:00"
     place: NOVA International School
     image: kid-workshop.png
     text: |
-      <b class="title-random">Капиларна акција </b> <br> <i class="speaker-random">
+      <b class="title-random">Виртуелна реалност + капиларна акција </b> <br> <i class="speaker-random">
       📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/MoBNNwfh6WT2qqz5A" target="_blank">Регистрација (деца од 10 до 12 години)</a></i>
-       <br><br><b class="title-random">Електромотори </b> <br> <i class="speaker-random">
+       <br><br><b class="title-random">Виртуелна реалност + електромотори </b> <br> <i class="speaker-random">
       📋 <a style="text-decoration: underline; color: #000;" href="#####" target="_blank">Регистрација (деца од 10 до 12 години)</a></i>
-       <br><br><b class="title-random">Француска наука </b> <br> <i class="speaker-random">
-      📋 <a style="text-decoration: underline; color: #000;" href="#####" target="_blank">Регистрација (Тинејџери од 13 до 15 години)</a></i>
-       <br><br><b class="title-random">Генеративна вештачка интелигенција </b> <br> <i class="speaker-random">
-      📋 <a style="text-decoration: underline; color: #000;" href="#####" target="_blank">Регистрација (тинејџери од 13 до 15 години)</a></i>
+       <br><br><b class="title-random">Виртуелна реалност + француска наука </b> <br> <i class="speaker-random">
+      📋 <a style="text-decoration: underline; color: #000;" href="#####" target="_blank">Регистрација (деца од 10 до 12 години)</a></i>
+       
   - title: "🇫🇷 ИЗЛОЖБА <br> PARLES VOUS FRAN-SCI?"
     time:  "12:00-13:00"
     place: NOVA International School
     image: kid-french.png
     text: ""
-  - title: "🎨 РАБОТИЛНИЦИ"
-    time:  "13:00-14:30"
+  - title: "🎨 ПОПЛАДНЕВНА СЕСИЈА ЗА ТИНЕЈЏЕРИ ОД 13 ДО 15 ГОДИНИ"
+    time:  "12:00-14:30"
     place: NOVA International School
     image: kid-workshop.png
     text: |
-      <b class="title-random">Капиларна акција </b> <br> <i class="speaker-random">
+      <b class="title-random">Виртуелна реалност + капиларна акција </b> <br> <i class="speaker-random">
       📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/cJuUbJNaTKqP7BzT7" target="_blank">Регистрација (тинејџери од 13 до 15 години)</a></i>
-       <br><br><b class="title-random">Електромотори </b> <br> <i class="speaker-random">
+       <br><br><b class="title-random">Виртуелна реалност + електромотори </b> <br> <i class="speaker-random">
       📋 <a style="text-decoration: underline; color: #000;" href="#####" target="_blank">Регистрација (тинејџери од 13 до 15 години)</a></i>
-       <br><br><b class="title-random">Француска наука </b> <br> <i class="speaker-random">
-      📋 <a style="text-decoration: underline; color: #000;" href="#####" target="_blank">Регистрација (деца од 10 до 12 години)</a></i>
-       <br><br><b class="title-random">Генеративна вештачка интелигенција </b> <br> <i class="speaker-random">
-      📋 <a style="text-decoration: underline; color: #000;" href="#####" target="_blank">Регистрација (деца од 10 до 12 години)</a></i>
+       <br><br><b class="title-random">Виртуелна реалност + француска наука </b> <br> <i class="speaker-random">
+      📋 <a style="text-decoration: underline; color: #000;" href="#####" target="_blank">Регистрација (тинејџери од 13 до 15 години)</a></i>

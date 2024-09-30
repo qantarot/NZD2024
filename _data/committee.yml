@@ -1,12 +1,9 @@
 people:
-- name: "Dragana Stikova"
+- name: "Драгана Стикова"
   image: NZD_Dragana_Stikova.jpg
-- name: "Nikola Stikov"
+- name: "Никола Стиков"
   image:  NZD_Nikola_Stikov.jpg
-<!--    affiliation: École Polytechnique de Montréal, Montreal Heart Institute, University of Montréal
-    twitter: https://twitter.com/Stikov
-    linkedin: #
-    researchgate: # -->
+
 
 speakers:
   - name: "Justin Bieber"

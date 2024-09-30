@@ -1,0 +1,18 @@
+people:
+  - name: "Nikola Stikov"
+    image:  NikolaStikov.jpg
+    affiliation: École Polytechnique de Montréal, Montreal Heart Institute, University of Montréal
+    twitter: https://twitter.com/Stikov
+    linkedin: #
+    researchgate: #
+speakers:
+  - name: "Justin Bieber"
+    image:  1.png
+  - name: "Chadwick Boseman"
+    image:  2.png
+  - name: "Dwayne Johnson"
+    image:  3.png
+  - name: "Vin Diesel"
+    image:  4.png
+  - name: "Isaac Newton"
+    image:  5.png

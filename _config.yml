@@ -10,8 +10,8 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Science for Kids"
-keywords:    "North Macedonia"
+title:       "НАУКА ЗА ДЕЦА"
+keywords:    "Скопје Македонија Наука"
 description: "Symposium"
 source_link: "https://github.com/qantarot/NZD2024"
 favicon:     "img/NZDfavicon.ico"

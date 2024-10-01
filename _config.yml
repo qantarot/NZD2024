@@ -13,8 +13,8 @@ markdown: kramdown
 title:       "Science for Kids"
 keywords:    "North Macedonia"
 description: "Symposium"
-source_link: "https://github.com/agahkarakuzu/s4k"
-favicon:     "img/favicon.ico"
+source_link: "https://github.com/qantarot/NZD2024"
+favicon:     "img/NZDfavicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:
   

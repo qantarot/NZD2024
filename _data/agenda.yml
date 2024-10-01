@@ -57,7 +57,7 @@ saturday1:
     image: kids-cocktail.png
     text: ""
 saturday2:
-  - title: "🎨 УТРИНСКА СЕСИЈА ЗА ДЕЦА ОД 10 ДО 12 ГОДИНИ"
+  - title: "🎨 УТРИНСКИ РАБОТИЛНИЦИ - ДЕЦА ОД 10 ДО 12 ГОДИНИ, ОДБЕРЕТЕ ЕДНА!"
     time:  "10:30-13:00"
     place: NOVA International School
     image: kid-workshop.png
@@ -74,7 +74,7 @@ saturday2:
     place: NOVA International School
     image: kid-french.png
     text: ""
-  - title: "🎨 ПОПЛАДНЕВНА СЕСИЈА ЗА ТИНЕЈЏЕРИ ОД 13 ДО 15 ГОДИНИ"
+  - title: "🎨 ПОПЛАДНЕВНИ РАБОТИЛНИЦИ - ТИНЕЈЏЕРИ ОД 13 ДО 15 ГОДИНИ, ОДБЕРЕТЕ ЕДНА!"
     time:  "12:00-14:30"
     place: NOVA International School
     image: kid-workshop.png

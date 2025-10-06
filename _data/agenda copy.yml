@@ -1,22 +1,58 @@
 saturday1:
   - title: "🚪ПРИЕМ"
-    time:  "18:15"
+    time:  "18:30"
     place: NOVA International School
     image: kid-welcome.png
     text: |
-      🎊 <b class="title-random" style="color: #000;">ПОЗДРАВНИ ГОВОРИ 18:30-18:45 </b> <br> <i class="speaker-random">
+      🎊 <b class="title-random" style="color: #000;">ПОЗДРАВНИ ГОВОРИ 19:00-19:15 </b> <br> <i class="speaker-random">
       <br> <b>Драгана Стикова</b> <br> Директорка на Фондација КАНТАРОТ
-      <br> <b>Иван Новаковски</b> <br> Директор на NOVA International School Skopje </i>
+      <br> <b>Иван Новаковски</b> <br> Директор на NOVA International School Skopje
+      <br> <b>Иго Бештел</b> <br> Директор на Француски институт Скопје </i>
       <br><br>
 
   - title: "ПЛЕНАРНИ ПРЕДАВАЊА"
-    time:  "18:45-19:30"
+    time:  "19:15-20:45"
     place: NOVA International School
     image: kid-award.png
     text:  ""
-  
+  - title: "ПРЕДАВАЊЕ"
+    time:  "19:15-19:30"
+    place: NOVA International School
+    image: 1.png
+    text: ""
+    large: true
+  - title: "ПРЕДАВАЊЕ"
+    time:  "19:45-20:00"
+    place: NOVA International School
+    image: 2.png
+    large: true
+    text: ""
+  - title: "PLENARY LECTURE"
+    time:  "20:00-20:15"
+    place: NOVA International School
+    image: 3.png
+    text: ""
+    large: true
+  - title: "PLENARY LECTURE"
+    time:  "20:15-20:30"
+    place: NOVA International School
+    image: 4.png
+    text: ""
+    large: true
+  - title: "PLENARY LECTURE"
+    time:  "20:30-20:45"
+    place: NOVA International School
+    image: 5.png
+    text: ""
+    large: true
+  - title: "PLENARY LECTURE"
+    time:  "20:45-21:00"
+    place: NOVA International School
+    image: 6.png
+    text: ""
+    large: true
   - title: "ДОДЕЛУВАЊЕ НА НАГРАДИ И КОКТЕЛ"
-    time:  "19:30"
+    time:  "20:45"
     place: NOVA International School
     image: kids-cocktail.png
     text: ""

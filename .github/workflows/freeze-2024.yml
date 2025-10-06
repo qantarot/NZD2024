@@ -1,0 +1,60 @@
+name: Freeze 2024 under /2024
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: "Commit SHA, tag, or branch to freeze (e.g., 189d812 or v2024)"
+        required: true
+        default: "189d812"
+      baseurl:
+        description: "Base URL to use for the archived site"
+        required: true
+        default: "/2024"
+
+permissions:
+  contents: write
+
+jobs:
+  freeze:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+
+      - name: Install Jekyll deps
+        run: |
+          gem install bundler
+          bundle config set path 'vendor/bundle'
+          bundle install --jobs 4 --retry 3
+
+      - name: Build archived version from ref
+        run: |
+          git checkout "${{ inputs.ref }}"
+          cp _config.yml _config-2024.yml || touch _config-2024.yml
+          printf '\nbaseurl: "%s"\n' "${{ inputs.baseurl }}" >> _config-2024.yml
+          bundle exec jekyll build --config _config-2024.yml
+          mv _site ../_site_2024
+
+      - name: Publish static output to /2024 on main
+        run: |
+          git checkout -f main
+          rm -rf 2024 && mkdir 2024
+          rsync -a ../_site_2024/ 2024/
+          touch 2024/.nojekyll
+          if ! grep -q '^exclude:' _config.yml; then
+            printf '\nexclude:\n  - 2024\n' >> _config.yml
+          elif ! grep -q '^[[:space:]]*- 2024' _config.yml; then
+            awk '{print} END{print "  - 2024"}' _config.yml > _config.tmp && mv _config.tmp _config.yml
+          fi
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Freeze site from ${{ inputs.ref }} under /2024 (baseurl=${{ inputs.baseurl }})" || echo "No changes"
+          git push

@@ -14,42 +14,6 @@ saturday1:
     place: NOVA International School
     image: kid-award.png
     text:  ""
-  - title: "АНГЕЛА ТУНЕСКА - Каде е физиката во вештачката интелигенција?"
-    time:  "18:45-19:00"
-    place: NOVA International School
-    <!--image: 1.png
-    text: ""
-    large: true -->
-  - title: "ПРЕДАВАЊЕ"
-    time:  "19:45-20:00"
-    place: NOVA International School
-    image: 2.png
-    large: true
-    text: ""
-  - title: "PLENARY LECTURE"
-    time:  "20:00-20:15"
-    place: NOVA International School
-    image: 3.png
-    text: ""
-    large: true
-  - title: "PLENARY LECTURE"
-    time:  "20:15-20:30"
-    place: NOVA International School
-    image: 4.png
-    text: ""
-    large: true
-  - title: "PLENARY LECTURE"
-    time:  "20:30-20:45"
-    place: NOVA International School
-    image: 5.png
-    text: ""
-    large: true
-  - title: "PLENARY LECTURE"
-    time:  "20:45-21:00"
-    place: NOVA International School
-    image: 6.png
-    text: ""
-    large: true
   - title: "ДОДЕЛУВАЊЕ НА НАГРАДИ И КОКТЕЛ"
     time:  "20:45"
     place: NOVA International School

@@ -1,0 +1,65 @@
+projects1:
+  - id: "p-1"
+    title: "Virtual Scanner"
+    image:  vscan.jpg
+    description: n/a
+    url: www.github.com/imr-framework/virtual-scanner
+  - id: "p-2"
+    title: "muscle-BIDS"
+    image:  mskbids.jpg
+    description: n/a
+    url: www.github.com/imr-framework/virtual-scanner
+  - id: "p-3"
+    title: "Pulseq"
+    image:  pulseq.png
+    description: n/a
+    url: https://pulseq.github.io/
+  - id: "p-4"
+    title: "Gammastar"
+    image:  gamma.png
+    description: n/a
+    url: https://www.mevis.fraunhofer.de/en/research-and-technologies/imaging-physics/gammastar.html
+
+projects2:
+  - id: "p-5"
+    title: "MRSHub"
+    image:  mrshub.png
+    description: n/a
+    url: https://mrshub.org/
+  - id: "p-5"
+    title: "NeuroLibre"
+    image:  nl.png
+    description: n/a
+    url: https://muscle-bids.github.io
+  - id: "p-6"
+    title: "VENUS"
+    image:  venus_logo.png
+    description: n/a
+    url: https://qmrlab.org/VENUS
+  - id: "p-7"
+    title: "MRpub"
+    image:  mrpub.png
+    description: n/a
+    url: https://ismrm.github.io/mrpub/
+
+projects3:
+  - id: "p-8"
+    title: "Pulseq-QA"
+    image:  pulseq.png
+    description: n/a
+    url: https://github.com/mrathon/idea-pitches/issues/12
+  - id: "p-9"
+    title: "Gadgetron Starter"
+    image:  gadget.png
+    description: n/a
+    url: https://github.com/mrathon/idea-pitches/issues/13
+  - id: "p-10"
+    title: "PyPulseq"
+    image:  pypulseq.png
+    description: n/a
+    url: https://github.com/mrathon/idea-pitches/issues/14
+  - id: "p-11"
+    title: "MRM Code Review"
+    image:  mrmrev.png
+    description: n/a
+    url: https://github.com/mrathon/idea-pitches/issues/15

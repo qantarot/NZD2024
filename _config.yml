@@ -3,7 +3,8 @@ safe: true
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-
+include:
+  - 2024
 permalink: /:title ## disables post output
 timezone: null
 lsi: false

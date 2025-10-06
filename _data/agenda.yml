@@ -27,14 +27,13 @@ saturday2:
     image: kid-workshop.png
     text: |
       <b class="title-random"> Што бараш ти во моја песна? - Никола Перевски - Пере и Проф. Никола Стиков </b> <br> <i class="speaker-random"> </i>
-       <br><br><b class="title-random"> Час од иднината - Мирјана Пауновска, м-р Драгана Стикова и Проф. Ана Стојанов </b> <br> <i class="speaker-random">
-      📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/6Zj1U88CWnWWWztWA" target="_blank">Регистрација (деца од 7 до 9 години)</a></i>
-      📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/C32t41fRo2qXaa9H7" target="_blank">Регистрација (деца од 10 до 12 години)</a></i>
+       <br><br><b class="title-random"> Час од иднината - Мирјана Пауновска, м-р Драгана Стикова и Проф. Ана Стојанов </b> <br> <i class="speaker-random"> </i>
+      📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/6Zj1U88CWnWWWztWA" target="_blank">Регистрација (деца од 7 до 12 години)</a></i>
        
   - title: "🇳🇱 ИЗЛОЖБА <br> ХОЛАНДСКА НАУКА"
     time:  "12:00-13:00"
     place: NOVA International School
-    image: kid-french.png
+    image: kid-dutch.png
     text: ""
   - title: "🎨 ПОПЛАДНЕВНИ РАБОТИЛНИЦИ"
     time:  "12:00-15:00"

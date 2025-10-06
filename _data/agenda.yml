@@ -21,25 +21,23 @@ saturday1:
     image: kids-cocktail.png
     text: ""
 saturday2:
-  - title: "🎨 УТРИНСКИ РАБОТИЛНИЦИ - ДЕЦА ОД 10 ДО 12 ГОДИНИ, ОДБЕРЕТЕ ЕДНА!"
-    time:  "10:30-13:00"
+  - title: "🎨 УТРИНСКИ РАБОТИЛНИЦИ"
+    time:  "10:00-13:00"
     place: NOVA International School
     image: kid-workshop.png
     text: |
-      <b class="title-random">Виртуелна реалност + капиларна акција </b> <br> <i class="speaker-random">
-      📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/MoBNNwfh6WT2qqz5A" target="_blank">Регистрација (деца од 10 до 12 години)</a></i>
-       <br><br><b class="title-random">Виртуелна реалност + електромотори </b> <br> <i class="speaker-random">
-      📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/6Zj1U88CWnWWWztWA" target="_blank">Регистрација (деца од 10 до 12 години)</a></i>
-       <br><br><b class="title-random">Виртуелна реалност + француска наука </b> <br> <i class="speaker-random">
+      <b class="title-random"> Што бараш ти во моја песна? - Никола Перевски - Пере и Проф. Никола Стиков </b> <br> <i class="speaker-random"> </i>
+       <br><br><b class="title-random"> Час од иднината - Мирјана Пауновска, м-р Драгана Стикова и Проф. Ана Стојанов </b> <br> <i class="speaker-random">
+      📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/6Zj1U88CWnWWWztWA" target="_blank">Регистрација (деца од 7 до 9 години)</a></i>
       📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/C32t41fRo2qXaa9H7" target="_blank">Регистрација (деца од 10 до 12 години)</a></i>
        
-  - title: "🇫🇷 ИЗЛОЖБА <br> PARLEZ-VOUS FRAN-SCI?"
+  - title: "🇳🇱 ИЗЛОЖБА <br> ХОЛАНДСКА НАУКА"
     time:  "12:00-13:00"
     place: NOVA International School
     image: kid-french.png
     text: ""
-  - title: "🎨 ПОПЛАДНЕВНИ РАБОТИЛНИЦИ - ТИНЕЈЏЕРИ ОД 13 ДО 15 ГОДИНИ, ОДБЕРЕТЕ ЕДНА!"
-    time:  "12:00-14:30"
+  - title: "🎨 ПОПЛАДНЕВНИ РАБОТИЛНИЦИ"
+    time:  "12:00-15:00"
     place: NOVA International School
     image: kid-workshop.png
     text: |

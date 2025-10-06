@@ -26,11 +26,12 @@ saturday2:
     place: NOVA International School
     image: kid-workshop.png
     text: |
-      <b class="title-random"> Што бараш ти во моја песна? <br> Никола Перевски - Пере и Проф. Никола Стиков </b> <br> <i class="speaker-random"> </i>
-       <br><br><b class="title-random"> Час од иднината <br>Мирјана Пауновска, м-р Драгана Стикова и Проф. Ана Стојанов </b> <br> <i class="speaker-random"> </i>
-      📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/6Zj1U88CWnWWWztWA" target="_blank">Регистрација (деца од 7 до 12 години)</a>
+       📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/6Zj1U88CWnWWWztWA" target="_blank">Регистрација (деца од 7 до 12 години)</a>
+       <b class="title-random"> Што бараш ти во моја песна? <br> Никола Перевски - Пере и Проф. Никола Стиков </b> <br> <i class="speaker-random"> </i>
+       <br><br><b class="title-random"> Час од иднината <br> Мирјана Пауновска, м-р Драгана Стикова и Проф. Ана Стојанов </b> <br> <i class="speaker-random"> </i>
+     
        
-  - title: "🇳🇱 ИЗЛОЖБА <br> ХОЛАНДСКА НАУКА"
+  - title: "🇳🇱 ИЗЛОЖБА ХОЛАНДСКА НАУКА"
     time:  "12:00-13:00"
     place: NOVA International School
     image: kid-dutch.png
@@ -40,9 +41,7 @@ saturday2:
     place: NOVA International School
     image: kid-workshop.png
     text: |
-      <b class="title-random">Виртуелна реалност + капиларна акција </b> <br> <i class="speaker-random">
-      📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/cJuUbJNaTKqP7BzT7" target="_blank">Регистрација (тинејџери од 13 до 15 години)</a></i>
-       <br><br><b class="title-random">Виртуелна реалност + електромотори </b> <br> <i class="speaker-random">
-      📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/3z2dvTwK6Vev2y9S6" target="_blank">Регистрација (тинејџери од 13 до 15 години)</a></i>
-       <br><br><b class="title-random">Виртуелна реалност + француска наука </b> <br> <i class="speaker-random">
-      📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/oPftd3A9PHnVm9uG6" target="_blank">Регистрација (тинејџери од 13 до 15 години)</a></i>
+      📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/6Zj1U88CWnWWWztWA" target="_blank">Регистрација (деца од 7 до 12 години)</a>
+      <b class="title-random"> Што бараш ти во моја песна? <br> Никола Перевски - Пере и Проф. Никола Стиков </b> <br> <i class="speaker-random"> </i>
+       <br><br><b class="title-random"> Час од иднината <br> Мирјана Пауновска, м-р Драгана Стикова и Проф. Ана Стојанов </b> <br> <i class="speaker-random"> </i>
+    

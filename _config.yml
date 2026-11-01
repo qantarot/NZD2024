@@ -16,8 +16,8 @@ title:       "НАУКА ЗА ДЕЦА"
 keywords:    "Скопје Македонија Наука"
 description: "Наука за деца ВИ претставува..."
 source_link: "https://github.com/qantarot/NZD2024"
-favicon:     "img/NZDfavicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
+favicon:     "img/2026/favicon.ico"
+touch_icon:  "img/2026/apple-touch-icon.png"
 google_analytics_key:
   
 
@@ -38,6 +38,15 @@ colors:
   contacts:     '#3035A4'
   nwclr:        '#C1DFF0'
   clrnew: '#ffffff'
+  # NZD 2026 palette (from the splash)
+  red:          '#e13027'
+  red-deep:     '#a8201b'
+  yellow:       '#ffd21f'
+  teal:         '#3f8e8f'
+  teal-deep:    '#1f5f61'
+  cream:        '#fffae8'
+  ink:          '#2b211c'
+  red-dark:     '#7d1813'
   party: '#1c1419'
   neuro: '#8b0000'
 

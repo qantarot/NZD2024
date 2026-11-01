@@ -51,7 +51,7 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: #f7b901;
+		background: #e13027;
 		font: 14px/21px "Raleway", "HelveticaNeue-Light", Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
@@ -401,9 +401,9 @@ span.lineno {
 }
 
 .info-box {
-	background-color: #f7b901;
-	border-left: 6px solid #f4eded;
-	border-right: 6px solid #f4eded;
+	background-color: #fffae8;
+	border-left: 6px solid #ffd21f;
+	border-right: 6px solid #ffd21f;
 	border-radius: 10px;
 	margin-bottom: 15px;
 	padding: 3px;

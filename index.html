@@ -10,14 +10,14 @@
 	<meta name="description" content="{{ site.description }}">
 
   <meta name="twitter:card" content="summary_large_image" />
- <meta name="twitter:title" content="NZD 2025" />
+ <meta name="twitter:title" content="NZD 2026" />
  <meta name="twitter:description" content="Augment your reality" />
- <meta name="twitter:image" content="https://konferencija.naukazadeca.mk/img/sfkbanner_2025.jpg" />
+ <meta name="twitter:image" content="https://konferencija.naukazadeca.mk/img/2026/splash.png" />
 
-<meta property="og:title" content="NZD 2025" />
+<meta property="og:title" content="NZD 2026" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://konferencija.naukazadeca.mk" />
-<meta property="og:image" content="https://konferencija.naukazadeca.mk/img/sfkbanner_2025.jpg" />
+<meta property="og:image" content="https://konferencija.naukazadeca.mk/img/2026/splash.png" />
 
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.0/css/materialize.min.css">
@@ -64,14 +64,18 @@
       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="right fa fa-bars"></i></a>
       <ul class="hide-on-med-and-down">
       {% for node in site.posts reversed %}
+        {% unless node.nav == false %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
+        {% endunless %}
       {% endfor %}
       </ul>
       <ul class="side-nav" id="mobile-demo">
       {% for node in site.posts reversed %}
+        {% unless node.nav == false %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
+        {% endunless %}
       {% endfor %}
 
       </ul>

@@ -1,10 +1,10 @@
 ---
 title: "ТИМ"
-bg: wednesday
-color: white
+bg: yellow
+color: ink
 fa-icon: user
-iconclr: wednesday
-titleclr: wednesday
+iconclr: '#a8201b'
+titleclr: '#a8201b'
 ---
 
 <div class="team">
@@ -16,11 +16,15 @@ titleclr: wednesday
 <div class="team-player">
 
 
-<img src="img/organization/{{ person.image }}" alt="Thumbnail Image" class="img-raised img-circle" style="width:194px;height:194px;border-radius: 50%;">
-    <h4 class="title" style="color: #ffffff;">{{ person.name }}<br>
-        <small class="text-muted" style="color: #337ab7;">{{ person.title }}</small>
+{% if person.image %}
+<img src="img/organization/{{ person.image }}" alt="{{ person.name }}" class="img-raised img-circle" style="width:194px;height:194px;border-radius: 50%;">
+{% else %}
+<div class="photo-placeholder" aria-label="{{ person.name }}"><i class="fa fa-user"></i></div>
+{% endif %}
+    <h4 class="title" style="color: #2b211c;">{{ person.name }}<br>
+        <small class="text-muted" style="color: #a8201b;">{{ person.title }}</small>
     </h4>
-    <p class="description" style="color: #ffffff;"> {{ person.affiliation }}</p>
+    <p class="description" style="color: #2b211c;"> {{ person.affiliation }}</p>
 </div>
 </center>
 </div>

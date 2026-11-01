@@ -1,0 +1,30 @@
+# Past conferences shown in the АРХИВА section (newest first).
+# To add a year: freeze the site into a folder named after the year
+# (like 2024/ and 2025/), then add an entry here.
+- year: 2025
+  title: "Наука за деца ВИ претставува..."
+  dates: "17–18 октомври 2025"
+  place: "NOVA International School, Скопје"
+  url: "2025/"
+  image: "img/sfkbanner_2025.jpg"
+
+- year: 2024
+  title: "Надгради ја твојата реалност"
+  dates: "18–19 октомври 2024"
+  place: "Скопје"
+  url: "2024/"
+  image: "2024/НАУКА ЗА ДЕЦА_files/sfkbanner.jpg"
+
+- year: 2023
+  title: "Пуштете ја вашата научна фантазија"
+  dates: "7 октомври 2023"
+  place: "NOVA International School, Скопје"
+  url: "https://nzd.mk/vtora-nzd-konferencija/"
+  image: "img/2026/archive-2023.jpg"
+
+- year: 2022
+  title: "Од атом до шрафче, наука за секое главче"
+  dates: "21 мај 2022"
+  place: "Скопје"
+  url: "https://nzd.mk/konferencija2022/"
+  image: "img/2026/archive-2022.jpg"

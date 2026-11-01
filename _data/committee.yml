@@ -3,26 +3,21 @@ people:
   image: NZDDraganaStikova.png
 - name: "Никола Стиков"
   image: NZDNikolaStikov.png
-- name: "Ага Каракузу"
-  image: NZDAgahKarakuzu.png
 - name: "Анита Пренџова"
   image: NZDAnitaPrendzova.png
 - name: "Надица Мушијан"
   image: NZDNadicaMushijan.png
 - name: "Марина Матеска"
   image: NZDMarinaMateska.png
-- name: "Анка Веселинова"
-  image: NZDAnkaVeselinova.png
-- name: "Драгана Карашова"
-  image: NZDDraganaKarasova.png
 - name: "Мирјана Пауновска"
   image: NZDMirjanaPaunovska.png
-- name: "Неда Ѓоковиќ"
-  image: NZDNedaGjokovikj.png
-- name: "Томи Бошковски"
-  image: NZDTomiBoshkovski.png
-- name: "Тони Тамбурковски"
-  image: NZDToniTamburkovski.png
+- name: "Теа Ангелова"
+  image: NZDTeaAngelova.jpg
+- name: "Софија Дамјановска"
+- name: "Анѓела Стојановиќ"
+- name: "Александар Муриќ"
+- name: "Неда Рапоска"
+- name: "Ирма Башеска"
 
 speakers:
   - name: "Justin Bieber"

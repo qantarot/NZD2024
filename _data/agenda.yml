@@ -31,11 +31,13 @@ saturday2:
     place: NOVA International School
     image: kid-workshop.png
     text: |
+      <a href="https://forms.gle/5brKJtqQx61JXNUi8" target="_blank"><img class="workshop-banner" src="img/2026/banner-utrinski.jpg" alt="Работилници" style="width:100%;height:auto;border-radius:6px;margin-bottom:10px;"></a><br>
       📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/5brKJtqQx61JXNUi8" target="_blank">Регистрација (деца од 7 до 12 години)</a><br>
-      <b class="title-random"> РАБОТИЛНИЦА 1: ФАТИ РИТАМ СО ПРОМАЈАТА <br> Теа Ангелова, Софија Дамјановска и Анѓела Стојановиќ </b> <br>
+      <b class="title-random"> РАБОТИЛНИЦА 1: ФАТИ РИТАМ СО ПРОМАЈАТА <br> Теа Ангелова </b> <br>
       <span class="workshop-desc">Дали шишето може да пее и водата да свири? Создаваме музика со помош на физиката зад звуците!</span>
-      <br><br><b class="title-random"> РАБОТИЛНИЦА 2: КОГА ЕДНА СЛИКА ЌЕ ВЛЕЗЕ ВО ФИЛМ <br> Мирјана Пауновска и Проф. Никола Стиков </b>
-  - title: "🇲🇰 ИЗЛОЖБА ПОСВЕТЕНА НА МАКЕДОНСКА НАУКА"
+      <br><br><b class="title-random"> РАБОТИЛНИЦА 2: КОГА ЕДНА СЛИКА ЌЕ ВЛЕЗЕ ВО ФИЛМ <br> Мирјана Пауновска </b> <br>
+      <span class="workshop-desc">Што може да направи една слика сама? 🤔 А што ако се здружат десетици слики и почнат да соработуваат? Дали можат да се претворат во движење, приказна... па дури и во филм? Како една слика влегува во филм?</span>
+  - title: "🇲🇰 ИЗЛОЖБА ПОСВЕТЕНА НА МАКЕДОНСКАТА НАУКА"
     time:  "12:00-13:00"
     place: NOVA International School
     image: 2026/kid-macedonian.png
@@ -45,7 +47,9 @@ saturday2:
     place: NOVA International School
     image: kid-workshop.png
     text: |
+      <a href="https://forms.gle/d14Jp8FpHupkBbRAA" target="_blank"><img class="workshop-banner" src="img/2026/banner-popladnevni.jpg" alt="Работилници" style="width:100%;height:auto;border-radius:6px;margin-bottom:10px;"></a><br>
       📋 <a style="text-decoration: underline; color: #000;" href="https://forms.gle/d14Jp8FpHupkBbRAA" target="_blank">Регистрација (деца од 7 до 12 години)</a><br>
-      <b class="title-random"> РАБОТИЛНИЦА 1: ФАТИ РИТАМ СО ПРОМАЈАТА <br> Теа Ангелова, Софија Дамјановска и Анѓела Стојановиќ </b> <br>
+      <b class="title-random"> РАБОТИЛНИЦА 1: ФАТИ РИТАМ СО ПРОМАЈАТА <br> Теа Ангелова </b> <br>
       <span class="workshop-desc">Дали шишето може да пее и водата да свири? Создаваме музика со помош на физиката зад звуците!</span>
-      <br><br><b class="title-random"> РАБОТИЛНИЦА 2: КОГА ЕДНА СЛИКА ЌЕ ВЛЕЗЕ ВО ФИЛМ <br> Мирјана Пауновска и Проф. Никола Стиков </b>
+      <br><br><b class="title-random"> РАБОТИЛНИЦА 2: КОГА ЕДНА СЛИКА ЌЕ ВЛЕЗЕ ВО ФИЛМ <br> Мирјана Пауновска </b> <br>
+      <span class="workshop-desc">Што може да направи една слика сама? 🤔 А што ако се здружат десетици слики и почнат да соработуваат? Дали можат да се претворат во движење, приказна... па дури и во филм? Како една слика влегува во филм?</span>

@@ -14,10 +14,10 @@ saturday1:
     place: NOVA International School
     image: kid-award.png
     cards:
-      - Jakov_objava.jpeg
-      - Ognen_objava.jpeg
-      - Sofija_objava.jpeg
       - Zoran_objava.jpeg
+      - Jakov_objava.jpeg
+      - Sofija_objava.jpeg
+      - Ognen_objava.jpeg
     text:  ""
   
   - title: "ДОДЕЛУВАЊЕ НА НАГРАДИ И КОКТЕЛ"

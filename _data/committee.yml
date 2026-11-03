@@ -14,10 +14,14 @@ people:
 - name: "Теа Ангелова"
   image: NZDTeaAngelova.jpg
 - name: "Софија Дамјановска"
-- name: "Анѓела Стојановиќ"
+  image: NZDSofijaDamjanovska.jpg
+- name: "Анѓела Станојевиќ"
+  image: NZDAngjelaStanojevikj.jpg
 - name: "Александар Муриќ"
+  image: NZDAleksandarMurikj.jpg
 - name: "Неда Рапоска"
 - name: "Ирма Башеска"
+  image: NZDIrmaBaseska.jpg
 
 speakers:
   - name: "Justin Bieber"
